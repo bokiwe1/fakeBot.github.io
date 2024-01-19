@@ -79,8 +79,8 @@ input {
     height: 55px;
     position: absolute;
     border-radius: 50%;
-    border-top: 3px solid  rgb(0, 68, 255);
-    border-bottom: 3px solid  rgb(0, 68, 255);
+    border-top: 4px solid  rgb(0, 68, 255);
+    border-bottom: 4px solid  rgb(0, 68, 255);
     top: 49%;
     right: 30%;
     left: 45%;
